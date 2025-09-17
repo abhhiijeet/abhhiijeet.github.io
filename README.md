@@ -1,15 +1,33 @@
-# 💫 About Me:
-I'm currently working with Cognizant on Oracle Fusion Software.<br>I'm looking to collaborate on interesting C++ projects.<br>Currently learning Algorithms and increasing my fluency with C++ language.
+# 👋 Hey, I'm Abhijeet Bisht
 
+Welcome to my GitHub corner!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetbisht19) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhhiijeet&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhhiijeet&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhhiijeet&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm currently working as a **Programmer Analyst Associate** at **Cognizant**. Most of my day goes into tinkering with:
+
+- **Oracle Fusion & PL/SQL:** Building stuff, fixing bugs, and making data work for everyone
+- **AWS (Amazon Web Services):** Just started my cloud journey, and loving it!
+- **DSA (Data Structures & Algorithms):** Brushing up on problem-solving skills—because who doesn't love a good puzzle?
+
+---
+
+### 💡 What I'm Learning
+
+- Diving deeper into AWS cloud services
+- Leveling up my DSA game
+- Exploring new tech trends (always up for something new!)
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](https://abhijeetbisht19.github.io)
+- 📧 [abhijeetbisht19@gmail.com](mailto:abhijeetbisht19@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhijeet-bisht-5338b41b8/)
+
+---
+
+> _“Always learning, building, and trying cool things. Hit me up if you want to chat tech or work on something fun!”_
